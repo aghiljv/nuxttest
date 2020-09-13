@@ -1,0 +1,14 @@
+{
+  "name": "testnuxt",
+  "version": "1.0.0",
+  "description": "test",
+  "scripts": {
+    "dev": "nuxt",
+    "start": "nuxt start"
+  },
+  "dependencies": {
+    "nuxt": "2.14.5"
+  },
+  "author": "Aghil Jose",
+  "license": "MIT"
+}

@@ -1,0 +1,14 @@
+[
+  {
+    "name": "test",
+    "path": "/test",
+    "component": "D:\\\\Works\\\\Personal\\\\Nuxt\\\\testnuxt\\\\pages\\\\test.vue",
+    "chunkName": "pages/test"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "D:\\\\Works\\\\Personal\\\\Nuxt\\\\testnuxt\\\\pages\\\\index.vue",
+    "chunkName": "pages/index"
+  }
+]
